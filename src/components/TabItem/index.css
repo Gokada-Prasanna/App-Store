@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.button {
+  text-align: center;
+  width: 15vh;
+  color: #7b8794;
+  cursor: pointer;
+  padding: 0px;
+  margin: 0px;
+  border-width: 0px;
+}
+
+.active-button-Item {
+  color: #2563eb;
+  border-bottom: 2px solid #7b8794;
+  font-weight: bold;
+}
